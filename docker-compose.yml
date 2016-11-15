@@ -8,8 +8,8 @@ smtp:
     SES_USER:
     SES_PASSWORD:
     SES_REGION:
-    RELAY_NETWORKS: 10.10.0.0/24
-    RELAY_DOMAINS: dataowl.io
+    RELAY_NETWORKS: ":10.10.0.0/24"
+    RELAY_DOMAINS: "dataowl.io"
     KEY_PATH:
     CERTIFICATE_PATH:
     MAILNAME: dataowl.io
