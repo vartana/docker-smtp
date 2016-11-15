@@ -13,3 +13,4 @@ smtp:
     KEY_PATH:
     CERTIFICATE_PATH:
     MAILNAME: dataowl.io
+  restart: always
