@@ -12,4 +12,4 @@ smtp:
     RELAY_DOMAINS:
     KEY_PATH:
     CERTIFICATE_PATH:
-    MAILNAME:"dataowl.io"
+    MAILNAME: dataowl.io
